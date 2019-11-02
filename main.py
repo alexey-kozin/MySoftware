@@ -1,4 +1,8 @@
 
+def click():
+	print("click")
+
+
 def main():
 	return 0
 
