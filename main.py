@@ -1,4 +1,7 @@
 
+def welcome():
+	print("new screen")
+
 def main():
 	return 0
 
